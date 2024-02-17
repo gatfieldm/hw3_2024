@@ -164,7 +164,7 @@ Use the header.jpg file as a non-repeating background image with parallax effect
 You can NOT assume that the .overview class will always be the first child.   */
 
 .container > div:first-child{
-  background-image: url('/images/header.jpg');
+  background-image: url('../images/header.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
